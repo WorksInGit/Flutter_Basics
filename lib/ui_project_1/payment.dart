@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/flutter_basics/widget_toggle_button.dart';
+import 'package:flutter_basics/flutter_basics/widget_toggle_button.dart';
 
 class Payment extends StatefulWidget {
   const Payment({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/modern_login_page/modern_login.dart';
-import 'package:flutter_widgets/modern_login_page/modern_sign_up.dart';
+import 'package:flutter_basics/modern_login_page/modern_login.dart';
+import 'package:flutter_basics/modern_login_page/modern_sign_up.dart';
 
 class ModernSignUp extends StatefulWidget {
   const ModernSignUp({super.key});

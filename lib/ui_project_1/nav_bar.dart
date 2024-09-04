@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_project_1/home.dart';
-import 'package:flutter_widgets/ui_project_1/notification.dart';
-import 'package:flutter_widgets/ui_project_1/payment.dart';
+import 'package:flutter_basics/ui_project_1/home.dart';
+import 'package:flutter_basics/ui_project_1/notification.dart';
+import 'package:flutter_basics/ui_project_1/payment.dart';
 
 class NavBar extends StatefulWidget {
   const NavBar({super.key});

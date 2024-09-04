@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_widgets"
+    package="com.example.flutter_basics"
     android:versionCode="2001"
     android:versionName="1.0.0" >
 
@@ -25,10 +25,10 @@
     </queries>
 
     <permission
-        android:name="com.example.flutter_widgets.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.example.flutter_basics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.example.flutter_widgets.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.example.flutter_basics.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:name="android.app.Application"
@@ -36,7 +36,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="Flutter" >
         <activity
-            android:name="com.example.flutter_widgets.MainActivity"
+            android:name="com.example.flutter_basics.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -71,7 +71,7 @@
 
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-            android:authorities="com.example.flutter_widgets.flutter.image_provider"
+            android:authorities="com.example.flutter_basics.flutter.image_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -100,7 +100,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.example.flutter_widgets.androidx-startup"
+            android:authorities="com.example.flutter_basics.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"

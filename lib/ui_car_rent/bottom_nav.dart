@@ -1,11 +1,10 @@
 import 'dart:ffi';
-
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_car_rent/home.dart';
-import 'package:flutter_widgets/ui_car_rent/inbox.dart';
-import 'package:flutter_widgets/ui_car_rent/profile.dart';
-import 'package:flutter_widgets/ui_car_rent/wishlist.dart';
-import 'package:flutter_widgets/watsapp_ui/whatsapp_ui.dart';
+import 'package:flutter_basics/ui_car_rent/home.dart';
+import 'package:flutter_basics/ui_car_rent/inbox.dart';
+import 'package:flutter_basics/ui_car_rent/profile.dart';
+import 'package:flutter_basics/ui_car_rent/wishlist.dart';
+import 'package:flutter_basics/watsapp_ui/whatsapp_ui.dart';
 
 class BottomNav extends StatefulWidget {
   const BottomNav({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_project_1/user.dart';
+import 'package:flutter_basics/ui_project_1/user.dart';
 
 class MyListView extends StatefulWidget {
   const MyListView({super.key});

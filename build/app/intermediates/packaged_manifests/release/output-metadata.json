@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.flutter_widgets",
+  "applicationId": "com.example.flutter_basics",
   "variantName": "release",
   "elements": [
     {

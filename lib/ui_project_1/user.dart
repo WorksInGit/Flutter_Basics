@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_project_1/home.dart';
-import 'package:flutter_widgets/ui_project_1/nav_bar.dart';
+import 'package:flutter_basics/ui_project_1/home.dart';
+import 'package:flutter_basics/ui_project_1/nav_bar.dart';
 
 class User extends StatefulWidget {
   const User({super.key});

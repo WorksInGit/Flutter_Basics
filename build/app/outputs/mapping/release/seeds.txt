@@ -21,7 +21,7 @@ io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
 androidx.window.area.reflectionguard.WindowAreaComponentApi2Requirements
 io.flutter.plugin.platform.SingleViewPresentation
 androidx.window.area.reflectionguard.WindowAreaComponentApi3Requirements
-com.example.flutter_widgets.MainActivity
+com.example.flutter_basics.MainActivity
 androidx.window.area.reflectionguard.ExtensionWindowAreaStatusRequirements
 androidx.core.app.CoreComponentFactory
 kotlin.internal.jdk7.JDK7PlatformImplementations
@@ -505,7 +505,7 @@ io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter
 io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
 androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
 io.flutter.plugins.imagepicker.Messages$MediaSelectionOptions: Messages$MediaSelectionOptions()
-com.example.flutter_widgets.MainActivity: MainActivity()
+com.example.flutter_basics.MainActivity: MainActivity()
 io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
 io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
 io.flutter.embedding.engine.FlutterJNI: float getScaledFontSize(float,int)

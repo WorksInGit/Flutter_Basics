@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_project_1/mechanic.dart';
-import 'package:flutter_widgets/ui_project_1/user.dart';
+import 'package:flutter_basics/ui_project_1/mechanic.dart';
+import 'package:flutter_basics/ui_project_1/user.dart';
 
 class MyListView2 extends StatefulWidget {
   const MyListView2({super.key});

@@ -1,4 +1,4 @@
-# flutter_widgets
+# flutter_basics
 
 A new Flutter project.
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_task_3/bottom_nav.dart';
+import 'package:flutter_basics/ui_task_3/bottom_nav.dart';
 
 class UiTaskThree extends StatefulWidget {
   const UiTaskThree({super.key});

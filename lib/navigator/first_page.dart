@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/navigator/second_page.dart';
+import 'package:flutter_basics/navigator/second_page.dart';
 
 class FirstPage extends StatefulWidget {
   const FirstPage({super.key});

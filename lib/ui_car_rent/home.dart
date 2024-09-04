@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_widgets/ui_car_rent/bottom_nav.dart';
-import 'package:flutter_widgets/ui_car_rent/inbox.dart';
-import 'package:flutter_widgets/ui_car_rent/profile.dart';
-import 'package:flutter_widgets/ui_car_rent/wishlist.dart';
+import 'package:flutter_basics/ui_car_rent/bottom_nav.dart';
+import 'package:flutter_basics/ui_car_rent/inbox.dart';
+import 'package:flutter_basics/ui_car_rent/profile.dart';
+import 'package:flutter_basics/ui_car_rent/wishlist.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -14,11 +14,7 @@ class HomePage extends StatefulWidget {
 
 class _UiCarRentState extends State<HomePage> {
   final List<Widget> _pages = [HomePage(), Wishlist(), Inbox(), Profile()];
-  @override
-  void initState() {
-    super.initState();
-      precacheImage(NetworkImage('https://www.shutterstock.com/image-illustration/almaty-kazakhstan-juli-16-2019-260nw-1456621994.jpg'), context);
-  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

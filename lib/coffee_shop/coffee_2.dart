@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/coffee_shop/coffee_3.dart';
+import 'package:flutter_basics/coffee_shop/coffee_3.dart';
 
 class Coffee2 extends StatefulWidget {
   const Coffee2({super.key});

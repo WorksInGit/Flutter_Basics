@@ -1,4 +1,4 @@
-com.example.flutter_widgets
+com.example.flutter_basics
 anim fragment_fast_out_extra_slow_in
 animator fragment_close_enter
 animator fragment_close_exit
@@ -72,6 +72,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable background
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video

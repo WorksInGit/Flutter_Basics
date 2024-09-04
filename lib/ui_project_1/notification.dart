@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/flutter_basics/widget_toggle_button.dart';
-import 'package:flutter_widgets/ui_project_1/add_msg.dart';
-import 'package:flutter_widgets/ui_project_1/user.dart';
+import 'package:flutter_basics/flutter_basics/widget_toggle_button.dart';
+import 'package:flutter_basics/ui_project_1/add_msg.dart';
+import 'package:flutter_basics/ui_project_1/user.dart';
 
 class MyNotification extends StatefulWidget {
   const MyNotification({super.key});

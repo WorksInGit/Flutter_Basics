@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/navigator/third_page.dart';
+import 'package:flutter_basics/navigator/third_page.dart';
 
 class SecondPage extends StatefulWidget {
   const SecondPage({super.key});

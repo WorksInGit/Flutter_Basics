@@ -3428,22 +3428,22 @@ androidx.window.reflection.ReflectionUtils:
     public final boolean validateImplementation$window_release(java.lang.Class,java.lang.Class)
     public static synthetic boolean validateReflection$window_release$default(java.lang.String,kotlin.jvm.functions.Function0,int,java.lang.Object)
 androidx.window.reflection.WindowExtensionsConstants
-com.example.flutter_widgets.BuildConfig
-com.example.flutter_widgets.R$anim
-com.example.flutter_widgets.R$animator
-com.example.flutter_widgets.R$attr
-com.example.flutter_widgets.R$color
-com.example.flutter_widgets.R$dimen
-com.example.flutter_widgets.R$drawable
-com.example.flutter_widgets.R$id
-com.example.flutter_widgets.R$integer
-com.example.flutter_widgets.R$layout
-com.example.flutter_widgets.R$mipmap
-com.example.flutter_widgets.R$string
-com.example.flutter_widgets.R$style
-com.example.flutter_widgets.R$styleable
-com.example.flutter_widgets.R$xml
-com.example.flutter_widgets.R
+com.example.flutter_basics.BuildConfig
+com.example.flutter_basics.R$anim
+com.example.flutter_basics.R$animator
+com.example.flutter_basics.R$attr
+com.example.flutter_basics.R$color
+com.example.flutter_basics.R$dimen
+com.example.flutter_basics.R$drawable
+com.example.flutter_basics.R$id
+com.example.flutter_basics.R$integer
+com.example.flutter_basics.R$layout
+com.example.flutter_basics.R$mipmap
+com.example.flutter_basics.R$string
+com.example.flutter_basics.R$style
+com.example.flutter_basics.R$styleable
+com.example.flutter_basics.R$xml
+com.example.flutter_basics.R
 com.google.common.util.concurrent.ListenableFuture:
     public abstract void addListener(java.lang.Runnable,java.util.concurrent.Executor)
 io.flutter.Build$API_LEVELS

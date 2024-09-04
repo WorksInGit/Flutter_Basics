@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widgets/ui_project_1/list_view.dart';
-import 'package:flutter_widgets/ui_project_1/list_view_2.dart';
-import 'package:flutter_widgets/ui_project_1/nav_bar.dart';
+import 'package:flutter_basics/ui_project_1/list_view.dart';
+import 'package:flutter_basics/ui_project_1/list_view_2.dart';
+import 'package:flutter_basics/ui_project_1/nav_bar.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

@@ -1,1 +1,1 @@
- C:\\Users\\HP\\flutter_widgets\\.dart_tool\\flutter_build\\69399038d38f3e63715fc70b227c1be2\\native_assets.yaml: 
+ C:\\Users\\HP\\flutter_basics\\.dart_tool\\flutter_build\\69399038d38f3e63715fc70b227c1be2\\native_assets.yaml: 

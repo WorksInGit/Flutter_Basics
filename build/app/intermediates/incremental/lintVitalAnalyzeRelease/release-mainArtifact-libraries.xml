@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:C:\Users\HP\flutter_widgets\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="C:\Users\HP\flutter_widgets\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:C:\Users\HP\flutter_widgets\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:C:\Users\HP\flutter_basics\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Users\HP\flutter_basics\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Users\HP\flutter_basics\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="C:\Users\HP\flutter_widgets\android@@:flutter_plugin_android_lifecycle::release"
-      jars="C:\Users\HP\flutter_widgets\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out\jars\classes.jar;C:\Users\HP\flutter_widgets\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out\jars\libs\R.jar"
+      name="C:\Users\HP\flutter_basics\android@@:flutter_plugin_android_lifecycle::release"
+      jars="C:\Users\HP\flutter_basics\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out\jars\classes.jar;C:\Users\HP\flutter_basics\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.flutter_plugin_android_lifecycle:flutter_plugin_android_lifecycle:unspecified"
-      folder="C:\Users\HP\flutter_widgets\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out"
+      folder="C:\Users\HP\flutter_basics\build\flutter_plugin_android_lifecycle\.transforms\f8a255bf662dc546bc63fc11ffc8eb12\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\HP\flutter_widgets\android@@:image_picker_android::release"
-      jars="C:\Users\HP\flutter_widgets\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out\jars\classes.jar;C:\Users\HP\flutter_widgets\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out\jars\libs\R.jar"
+      name="C:\Users\HP\flutter_basics\android@@:image_picker_android::release"
+      jars="C:\Users\HP\flutter_basics\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out\jars\classes.jar;C:\Users\HP\flutter_basics\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out\jars\libs\R.jar"
       resolved="io.flutter.plugins.imagepicker:image_picker_android:unspecified"
-      folder="C:\Users\HP\flutter_widgets\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out"
+      folder="C:\Users\HP\flutter_basics\build\image_picker_android\.transforms\1b679213205da93c6ebcd39ba6a0b93d\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
